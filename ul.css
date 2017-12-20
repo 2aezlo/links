@@ -2,3 +2,12 @@ ul {
  list-style-image: url("http://www.sololearn.com/images/bullet.jpg");
  list-style-position: inside;
 }
+
+body {
+ font-family: verdana;
+ background-color: #141414;
+}
+
+.links-io {
+ color: SlateBlue;
+}
